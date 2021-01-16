@@ -1,4 +1,4 @@
-I am a university student studying in the Computer Engineering Department of Incheon National University 👋
+## I am a university student studying in the Computer Engineering Department of Incheon National University 👋
 
 ### :star: Career
 
