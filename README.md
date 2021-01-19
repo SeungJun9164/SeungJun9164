@@ -4,8 +4,8 @@
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Education** | 2015. 02 ~ | Computer Engineering Department | **Incheon National University**[Link](https://www.inu.ac.kr/mbshome/mbs/inu/index.do) |
-| **Undergraduate Research Student** | 2020. 09 ~ | Undergraduate Research Students | **Incheon National University. Data Intelligence Lab**[Link](https://sites.google.com/view/inudi) |
+| **Education** | 2015. 02 ~ | Computer Engineering Department | **Incheon National University** [[Link]](https://www.inu.ac.kr/mbshome/mbs/inu/index.do) |
+| **Undergraduate Research Student** | 2020. 09 ~ | Undergraduate Research Students | **Incheon National University. Data Intelligence Lab** [[Link]](https://sites.google.com/view/inudi) |
 
 ### :cyclone: Languages
 ![PYTHON](https://img.shields.io/badge/Python-3.8.3-blue) ![PYTORCH](https://img.shields.io/badge/Pytorch-1.7.1-red) 
